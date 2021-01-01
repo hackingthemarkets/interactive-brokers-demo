@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">05680</CoID>
+		<CoID Type="CompanyName">Apple Inc</CoID>
+		<CoID Type="IRSNo">942404110</CoID>
+		<CoID Type="CIKNo">0000320193</CoID>
+		<CoID Type="OrganizationPermID">4295905573</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">AAPL</IssueID>
+			<IssueID Type="RIC">AAPL.O</IssueID>
+			<IssueID Type="DisplayRIC">AAPL.OQ</IssueID>
+			<IssueID Type="InstrumentPI">331724</IssueID>
+			<IssueID Type="QuotePI">7645713</IssueID>
+			<IssueID Type="InstrumentPermID">8590932301</IssueID>
+			<IssueID Type="QuotePermID">55835312773</IssueID>
+			<Exchange Code="NASD" Country="USA">NASDAQ</Exchange>
+			<GlobalListingType>OSR</GlobalListingType>
+			<MostRecentSplit Date="2020-08-31">4.0</MostRecentSplit>
+		</Issue>
+		<Issue ID="2" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">Preference Shares</IssueID>
+			<IssueID Type="InstrumentPI">100112850</IssueID>
+			<IssueID Type="InstrumentPermID">21482886553</IssueID>
+			<Exchange Code="NA" Country="">Not Available</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2020-11-20</LastModified>
+		<LatestAvailableAnnual>2020-09-26</LatestAvailableAnnual>
+		<LatestAvailableInterim>2020-09-26</LatestAvailableInterim>
+		<Employees LastUpdated="2020-09-26">147000</Employees>
+		<SharesOut Date="2020-10-16" TotalFloat="16990540968.0">17001802000.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2020-12-29">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2016-11-06T22:45:02">Apple Inc. designs, manufactures and markets mobile communication and media devices, personal computers and portable digital music players. The Company sells a range of related software, services, accessories, networking solutions, and third-party digital content and applications. The Company's segments include the Americas, Europe, Greater China, Japan and Rest of Asia Pacific. The Americas segment includes both North and South America. The Europe segment includes European countries, India, the Middle East and Africa. The Greater China segment includes China, Hong Kong and Taiwan. The Rest of Asia Pacific segment includes Australia and the Asian countries not included in the Company's other operating segments. Its products and services include iPhone, iPad, Mac, iPod, Apple Watch, Apple TV, a portfolio of consumer and professional software applications, iPhone OS (iOS), OS X and watchOS operating systems, iCloud, Apple Pay and a range of accessory, service and support offerings.</Text>
+		<Text Type="Financial Summary" lastModified="2020-11-20T21:31:07">BRIEF: For the fiscal year ended 26 September 2020, AppleInc revenues increased 6% to $274.52B. Net income increased4% to $57.41B. Revenues reflect Europe segment increase of14% to $68.64B, Americas segment increase of 7% to $124.56B, Rest of Asia Pacific segment increase of 10% to $19.59B,Other Foreign segment increase of 9% to $125.01B, UnitedStates segment increase of 7% to $109.2B.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2020-12-24T08:43:25">
+		<streetAddress line="1">1 Apple Park Way</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>CUPERTINO</city>
+		<state-region>CA</state-region>
+		<postalCode>95014-0642</postalCode>
+		<country code="USA">United States</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>1</countryPhoneCode>
+				<city-areacode>408</city-areacode>
+				<number>9961010</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2017-07-04T03:30:01"><webSite mainCategory="Home Page">https://www.apple.com/</webSite><eMail mainCategory="Company Contact/E-mail">
+		</eMail></webLinks>
+	<peerInfo lastUpdated="2020-12-24T08:43:25">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5710602011" mnem="">Phones &amp; Smart Phones</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="334220" mnem="">Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="334111" mnem="">Electronic Computer Mfg</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="511210" mnem="">Software Publishers</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="334112" mnem="">Computer Storage Device Mfg</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="334113" mnem="">Computer Terminal Mfg</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="443120" mnem="">Computer and Software Stores</Industry>
+			<Industry type="SIC" order="0" reported="1" code="3571" mnem="">Electronic Computers</Industry>
+			<Industry type="SIC" order="1" reported="0" code="3663" mnem="">Radio/tv Communications Equip</Industry>
+			<Industry type="SIC" order="2" reported="0" code="3571" mnem="">Electronic Computers</Industry>
+			<Industry type="SIC" order="3" reported="0" code="7372" mnem="">Prepackaged Software</Industry>
+			<Industry type="SIC" order="4" reported="0" code="3572" mnem="">Computer Storage Devices</Industry>
+			<Industry type="SIC" order="5" reported="0" code="3575" mnem="">Computer Terminals</Industry>
+			<Industry type="SIC" order="6" reported="0" code="5734" mnem="">Computer And Software Stores</Industry>
+		</IndustryInfo>
+		<Indexconstituet>S&amp;P 500</Indexconstituet>
+		<Indexconstituet>Dow Industry</Indexconstituet>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="11/15/2011">
+			<firstName>Arthur</firstName>
+			<mI>D.</mI>
+			<lastName>Levinson</lastName>
+			<age>70 </age>
+			<title startYear="2011" startMonth="11" startDay="15" iD1="CHM" abbr1="Chmn." iD2="IND" abbr2="Ind. Dir.">Independent Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="03/1998">
+			<firstName>Timothy</firstName>
+			<mI>D.</mI>
+			<lastName>Cook</lastName>
+			<age>59 </age>
+			<title startYear="2011" startMonth="08" startDay="24" iD1="CEO" abbr1="CEO" iD2="DRC" abbr2="Dir.">Chief Executive Officer, Director</title>
+		</officer>
+		<officer rank="3" since="05/29/2014">
+			<firstName>Luca</firstName>
+			<mI></mI>
+			<lastName>Maestri</lastName>
+			<age>56 </age>
+			<title startYear="2014" startMonth="05" startDay="29" iD1="CFO" abbr1="CFO" iD2="SVP" abbr2="Sr. VP">Chief Financial Officer, Senior Vice President</title>
+		</officer>
+		<officer rank="4" since="07/2010">
+			<firstName>Jeffrey</firstName>
+			<mI>E.</mI>
+			<lastName>Williams</lastName>
+			<age>56 </age>
+			<title startYear="2018" startMonth="11" startDay="13" iD1="COO" abbr1="COO" iD2="" abbr2="">Chief Operating Officer</title>
+		</officer>
+		<officer rank="5" since="11/13/2017">
+			<firstName>Katherine</firstName>
+			<mI>L.</mI>
+			<lastName>Adams</lastName>
+			<age>55 </age>
+			<title startYear="2017" startMonth="11" startDay="13" iD1="SVP" abbr1="Sr. VP" iD2="GCN" abbr2="Counsel">Senior Vice President, General Counsel, Secretary</title>
+		</officer>
+		<officer rank="6" since="04/1997">
+			<firstName>Philip</firstName>
+			<mI>W.</mI>
+			<lastName>Schiller</lastName>
+			<age>58 </age>
+			<title startYear="2002" startMonth="02" startDay="" iD1="SVP" abbr1="Sr. VP" iD2="DMK" abbr2="Dir.-Mktg.">Senior Vice President - Worldwide Marketing</title>
+		</officer>
+		<officer rank="7" since="2001">
+			<firstName>Eddy</firstName>
+			<mI></mI>
+			<lastName>Cue</lastName>
+			<age>56 </age>
+			<title startYear="2011" startMonth="" startDay="" iD1="SVP" abbr1="Sr. VP" iD2="" abbr2="">Senior Vice President - Internet Software and Services</title>
+		</officer>
+		<officer rank="8" since="08/27/2012">
+			<firstName>Craig</firstName>
+			<mI></mI>
+			<lastName>Federighi</lastName>
+			<age>48 </age>
+			<title startYear="2012" startMonth="08" startDay="27" iD1="SVP" abbr1="Sr. VP" iD2="" abbr2="">Senior Vice President - Software Engineering</title>
+		</officer>
+		<officer rank="9" since="2018">
+			<firstName>John</firstName>
+			<mI></mI>
+			<lastName>Giannandrea</lastName>
+			<age></age>
+			<title startYear="2018" startMonth="" startDay="" iD1="SVP" abbr1="Sr. VP" iD2="" abbr2="">Senior Vice President - Machine Learning and AI Strategy</title>
+		</officer>
+		<officer rank="10" since="02/05/2019">
+			<firstName>Deirdre</firstName>
+			<mI></mI>
+			<lastName>O'Brien</lastName>
+			<age>53 </age>
+			<title startYear="2019" startMonth="02" startDay="05" iD1="SVP" abbr1="Sr. VP" iD2="" abbr2="">Senior Vice President - Retail + People</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="USD" ReportingCurrency="USD" ExchangeRate="1.00000" LatestAvailableDate="2020-09-26">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">133.72000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">138.78900</Ratio>
+			<Ratio FieldName="NLOW" Type="N">53.15250</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2020-12-30T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">116.08527</Ratio>
+			<Ratio FieldName="EV" Type="N">2295635.00000</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">2273481.00000</Ratio>
+			<Ratio FieldName="TTMREV" Type="N">274515.00000</Ratio>
+			<Ratio FieldName="TTMEBITD" Type="N">77344.00000</Ratio>
+			<Ratio FieldName="TTMNIAC" Type="N">57411.00000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="TTMEPSXCLX" Type="N">3.26679</Ratio>
+			<Ratio FieldName="TTMREVPS" Type="N">15.66132</Ratio>
+			<Ratio FieldName="QBVPS" Type="N">3.84873</Ratio>
+			<Ratio FieldName="QCSHPS" Type="N">5.35691</Ratio>
+			<Ratio FieldName="TTMCFSHR" Type="N">3.90610</Ratio>
+			<Ratio FieldName="TTMDIVSHR" Type="N">0.79500</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="TTMGROSMGN" Type="N">38.23325</Ratio>
+			<Ratio FieldName="TTMROEPCT" Type="N">73.68556</Ratio>
+			<Ratio FieldName="TTMPR2REV" Type="N">8.28181</Ratio>
+			<Ratio FieldName="PEEXCLXOR" Type="N">40.93315</Ratio>
+			<Ratio FieldName="PRICE2BK" Type="N">34.74392</Ratio>
+			<Ratio FieldName="Employees" Type="N">147000</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2021" CurFiscalYearEndMonth="9" CurInterimEndCalYear="2020" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.975</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">118.38590</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">11.7142</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">33.59546</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">315482.70620</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">102078.89270</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">3.98030</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">1.39200</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">66098.70710</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.84760</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>
+
